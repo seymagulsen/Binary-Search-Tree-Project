@@ -8,16 +8,16 @@
 Root 7'dir. root'un sağından büyük sayı 8 bulunur. Solunda küçük sayı 5 bulunur.
 
 
-                    7
+                         7
+       
+                /              \
       
-            /              \
+               5                  8
       
-          5                  8
-      
-      /      \                  \
+           /      \                  \
    
-     1         6                  9
-  
+        1         6                  9
+   
    /    \      
  
   0      3     
