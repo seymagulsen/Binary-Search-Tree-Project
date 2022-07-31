@@ -25,3 +25,5 @@ Root 7'dir. root'un sağından büyük sayı 8 bulunur. Solunda küçük sayı 5
               /  \
        
              2    4
+
+www.patika.dev
