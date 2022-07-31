@@ -22,6 +22,6 @@ Root 7'dir. root'un sağından büyük sayı 8 bulunur. Solunda küçük sayı 5
  
   0      3     
 
-       /  \
+        /  \
        
-      2    4
+       2    4
